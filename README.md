@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rohan
-- 👀 I’m interested in Electronics and Programing
 - 🌱 I’m currently learning Java
 
 
